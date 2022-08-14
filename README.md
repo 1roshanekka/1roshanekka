@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 #### Motivation -
-> <img src="/photo/motivation.png" alt="photo" width="200" height="200"/>
+> <img src="/photo/motivation.pnga" alt="photo" width="200" height="200"/>
