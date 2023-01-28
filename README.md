@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @1roshanekka
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning HTML  |  CSS  |  C++  |  Python
+- 🌱 I’m currently learning WebDev  |  C++  |  Python
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Mail me at  - 1roshanekka@gmail.com
 
