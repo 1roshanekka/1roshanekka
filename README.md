@@ -13,3 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 #### Motivation -
 > <img src="/photo/motivation.png" alt="photo" width="200" height="200"/>
+
+### Stats
+![](https://komarev.com/ghpvc/?username=1roshanekka&color=purple&style=flat-square)
