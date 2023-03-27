@@ -4,7 +4,7 @@
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning WebDev  |  C++  |  Python
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 Mail me at  - 1roshanekka@gmail.com
+Reach me out at - 1roshanekka@gmail.com
 
 ## About
 Roshan Ekka is currently an undergrad from IIT Kharagpur. He is passionate about Data Science and Biology and looks forward for creating 
