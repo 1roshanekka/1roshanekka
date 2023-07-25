@@ -5,6 +5,13 @@
 - 🌱 I’m currently learning WebDev  |  C++  |  Python
 - 💞️ I’m looking to collaborate on Web Development
 
+**Knowledge Pool:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://avatars1.githubusercontent.com/u/42048915?s=200&v=4"></code>
 
 Reach me out at - 1roshanekka@gmail.com
 
