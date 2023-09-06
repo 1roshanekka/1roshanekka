@@ -16,11 +16,6 @@
 
 Reach me out at - 1roshanekka@gmail.com
 
-## About
-Roshan Ekka is currently an undergrad from IIT Kharagpur. He is passionate about Data Science and Biology and looks forward for creating 
-a deep integration of Computer Science and Medical Sciences focusing on Genomes to let people understand it better.
-
-Inspiration derived from IBSE
 
 <!---
 1roshanekka/1roshanekka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
