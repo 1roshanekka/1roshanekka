@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 #### Motivation -
->  [image](https://github.com/1roshanekka/1roshanekka/blob/2fd03211b2f762134e54e2e527d892d353672b3d/photo/motivation.png)https://github.com/1roshanekka/1roshanekka/blob/2fd03211b2f762134e54e2e527d892d353672b3d/photo/motivation.png)
+[image](https://github.com/1roshanekka/1roshanekka/blob/2fd03211b2f762134e54e2e527d892d353672b3d/photo/motivation.png)
 
 ### Stats
 ![](https://komarev.com/ghpvc/?username=1roshanekka&color=blueviolet&style=flat-square)
