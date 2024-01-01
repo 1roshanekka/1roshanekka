@@ -22,6 +22,13 @@ Reach me out at - 1roshanekka@gmail.com
 You can click the Preview link to take a look at your changes.
 --->
 
+| <a href="https://github.com/1roshanekka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=1roshanekka&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Roshan's github stats" /></a> | <a href="https://github.com/1roshanekka/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1roshanekka&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+<br />
+<br />
+
 #### Motivation -
 [image](https://github.com/1roshanekka/1roshanekka/blob/2fd03211b2f762134e54e2e527d892d353672b3d/photo/motivation.png)
 
